@@ -31,7 +31,7 @@ main .box {
 }
 
 main .box .box-list {
-  width: calc(90%/3);
+  width: calc(90% / 3);
   height: 200px;
   margin: 20px 0;
   background-color: yellow;
